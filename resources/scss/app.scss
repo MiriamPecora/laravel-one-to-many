@@ -1,0 +1,25 @@
+@import "~bootstrap/scss/bootstrap";
+
+header {
+    background: linear-gradient(to right, #fb7d43, #fb7d43, #ebbca2);
+}
+
+#jumbotron {
+    background-image: url('https://img.freepik.com/free-photo/colorful-cupboards-shape_23-2148518415.jpg?t=st=1721770457~exp=1721774057~hmac=36acaccb6dcce5583c078af416a1a3c0d4a60939a0c2aee31034349e94897c2b&w=1380');
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.bg-orange {
+    background-color: #fb7d43;
+}
+
+.bg-light-orange {
+    background-color: #ebbca2;
+}
+
+.bg-light-blue {
+    background-color: #a0b3c0;
+}
